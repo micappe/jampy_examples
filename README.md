@@ -6,7 +6,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/micappe/jam_examples/main)
 [![PyPI version](https://img.shields.io/pypi/v/jampy.svg)](https://pypi.org/project/jampy/)
 [![arXiv:2003.03320](https://img.shields.io/badge/arXiv-0806.0042-orange.svg)](https://arxiv.org/abs/0806.0042)
-[![DOI:10.1111/j.1365-2966.2008.13754.x](https://img.shields.io/badge/DOI-10.1111/j.1365-2966.2008.13754.x-green.svg)](https://doi.org/10.1111/j.1365-2966.2008.13754.x)
+[![DOI:10.1111/j.1365-2966.2008.13754.x](https://img.shields.io/badge/DOI-10.1111%2Fj.1365--2966.2008.13754.x-green.svg)](https://doi.org/10.1111/j.1365-2966.2008.13754.x)
 
 Usage examples in [Jupyter Notebook](https://jupyter.org/) for the Jeans Anisotropic Modelling `JAM` method, originally described for cylindrically aligned velocity ellipsoids in [Cappellari (2008)](http://adsabs.harvard.edu/abs/2008MNRAS.390...71C) and for a spherically aligned velocity ellipsoid in [Cappellari (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4819C).
 
