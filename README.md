@@ -3,7 +3,7 @@
 **Jeans Anisotropic Modelling (JAM) of Galactic Dynamics**
 
 [<img src="https://users.physics.ox.ac.uk/~cappellari/images/jam-logo.svg" height="100">](https://users.physics.ox.ac.uk/~cappellari/software/#sec:jam)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/micappe/jam_examples/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/micappe/jampy_examples/main)
 [![PyPI version](https://img.shields.io/pypi/v/jampy.svg)](https://pypi.org/project/jampy/)
 [![arXiv:2003.03320](https://img.shields.io/badge/arXiv-0806.0042-orange.svg)](https://arxiv.org/abs/0806.0042)
 [![DOI:10.1111/j.1365-2966.2008.13754.x](https://img.shields.io/badge/DOI-10.1111%2Fj.1365--2966.2008.13754.x-green.svg)](https://doi.org/10.1111/j.1365-2966.2008.13754.x)
