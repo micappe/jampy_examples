@@ -1,5 +1,5 @@
-numpy == 2.3.1
-matplotlib == 3.10.3
+numpy == 2.2
+matplotlib == 3.10
 jampy == 8.0.0
 capfit == 2.7.0
 adamet == 2.0.10
